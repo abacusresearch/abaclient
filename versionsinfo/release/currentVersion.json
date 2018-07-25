@@ -1,0 +1,9 @@
+{
+  "version": "0.1.490",
+  "msi_en": "http://ftp.abacus.ch/abaclient/abaclient_installer_en.msi",
+  "msi_de": "http://ftp.abacus.ch/abaclient/abaclient_installer_de.msi",
+  "msi_fr": "http://ftp.abacus.ch/abaclient/abaclient_installer_fr.msi",
+  "msi_it": "http://ftp.abacus.ch/abaclient/abaclient_installer_it.msi",
+  "dmg": "http://ftp.abacus.ch/abaclient/AbaClient.dmg",
+  "shar": "http://ftp.abacus.ch/abaclient/setup_abaclient.run"
+}
