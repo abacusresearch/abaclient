@@ -1,9 +1,9 @@
 {
-  "version": "0.2.164",
-  "msi_en": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.164/abaclient_installer_en.msi",
-  "msi_de": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.164/abaclient_installer_de.msi",
-  "msi_fr": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.164/abaclient_installer_fr.msi",
-  "msi_it": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.164/abaclient_installer_it.msi",
-  "dmg": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.164/AbaClient.dmg",
-  "shar": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.164/setup_abaclient.run"
+  "version": "0.2.78",
+  "msi_en": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.78/abaclient_installer_en.msi",
+  "msi_de": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.78/abaclient_installer_de.msi",
+  "msi_fr": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.78/abaclient_installer_fr.msi",
+  "msi_it": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.78/abaclient_installer_it.msi",
+  "dmg": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.78/AbaClient.dmg",
+  "shar": "https://storage.googleapis.com/images.abasky.net/119676df089a90ab3c3004398806433938052586dcd9a6bcacfb0e3e4024f339/0.2.78/setup_abaclient.run"
 }
